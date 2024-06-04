@@ -1,0 +1,6 @@
+[submodule "print-clang-ast"]
+	path = print-clang-ast
+	url = ../print-clang-ast
+[submodule "smbase"]
+	path = smbase
+	url = ../smbase
